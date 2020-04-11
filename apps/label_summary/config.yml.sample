@@ -1,0 +1,8 @@
+gitlab:
+  token: 'aaa'
+  host_name: 'gitlab.example.com'
+  project_id: 1
+slack:
+  token: 'bbb'
+  channel: 'ccc'
+  username: 'MyName'
